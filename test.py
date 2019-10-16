@@ -9,5 +9,4 @@ def say_word():
 
 say_word()
 dict = [{'name':{'surname':'puwaniti','nickname':'god'},'age':22}]
-
-pprint(dict)
+print(dict)
